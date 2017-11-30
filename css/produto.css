@@ -1,0 +1,41 @@
+.Jquery2{
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 100px;
+	margin-top: 50px;
+	width: 1080px;
+	height: 400px;
+	background-color: #dcdcdc;
+}
+
+.tamanho_foto2{
+	width: 1080px;
+	height: 400px;
+}
+
+/* Produtos e servicos */
+.txt_Produtos{
+	font-size: 40px;
+	margin-top: 50px;
+}
+.Produtos_servicos{
+	float: left;
+	margin-left: 50px;
+	width: 300px;
+	height: 250px;
+	border-bottom: 1px solid #ccc;	
+	border-right: 1px solid #ccc;
+	background-color:#fff;
+	border-radius: 	10px 10px 10px 10px; 
+}
+.img_Produto{
+	margin-left: 43px;
+}
+.txt_Produto{
+	text-align: center;
+	font-size: 18px;
+}
+.txt_Produto h1{
+	text-align: center;
+	font-size: 23px;
+}

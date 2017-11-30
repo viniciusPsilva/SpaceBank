@@ -1,0 +1,52 @@
+/* Sobre Nós*/
+.Jquery_sobre_nos{
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 30px;
+	margin-top: 50px;
+	width: 1080px;
+	height: 400px;
+	background-color: #dcdcdc;
+}
+
+.sobre_nos{
+	width: 1080px;
+	height: 200px;
+	margin-bottom: 50px;
+	background-color: #0C2766;
+	padding-top: 10px;
+}
+#titulo_sobre_nos{
+	float: left;
+	width: 200px;
+	margin-top: 20px;
+	margin-left: 30px;
+	color: #ffffff;
+}
+#txt_sobre_nos{
+	float: left;
+	color: #ffffff;
+	margin-top: 80px;
+	margin-left: -150px;
+	font-size: 18px;
+	text-decoration: none;
+}
+#txt_sobre_nos a{
+	color: #ffffff;
+}
+#txt_sobre_nos a:hover{
+	color: #ffffff;
+}
+#posicao_bnt{
+	float: left;
+	margin-left: 30px;
+	margin-top: 75px;
+}
+#imgnos2{
+	float: left;
+	margin-left: 326px;
+	width: 256px;
+	height: 200px;
+	margin-top: -9px;
+
+}
